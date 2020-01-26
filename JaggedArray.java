@@ -4,6 +4,7 @@ package com.xworkz.java.Arrays.JaggedArray;
 7 
 8 9 */
 public class JaggedArray {
+	//find the array list
 	public static void main(String[] args) {
 		int[][] jarray=new int[4][];
 		jarray[0]=new int[3];
